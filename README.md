@@ -32,4 +32,4 @@ This project provisions a **Kubernetes cluster on AWS using EKS**, including a c
 ├── outputs.tf            # Output values
 ├── providers.tf          # AWS provider config
 ├── terraform.tfvars      # Variable values (ignored in .gitignore)
-├── README.md             # Project documentation
+├── README.md             # Documentation
